@@ -1,6 +1,6 @@
 # Description
 
-**gnuwin32_Scan_&_Download.exe**
+**gnuwin32_Scan_&_Download**
 
 SHA256: ee14975d236db43d99d80098b59ee8fb001bd553c13a18af77fa422c193dc365
 
