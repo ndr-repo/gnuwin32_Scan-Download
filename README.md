@@ -2,7 +2,7 @@
 
 Created by Gabriel H. [@weekndr_sec](https://github.com/ndr-repo)
 
-This is an installation tool that scans GnuWin32 SourceForge URLs, shows the results, then prompts for approval to proceed with downloading and running the file.
+This is an installation tool that scans GnuWin32 SourceForge URLs, shows the results, then prompts for approval to proceed downloading and running the installer.
 
 Currently, the tool is configured to install:
 - awk
